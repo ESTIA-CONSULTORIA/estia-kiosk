@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Estia Kiosk</string>
+    <string name="guard_label">Estia Kiosk – Vigilante</string>
+    <string name="guard_desc">Cierra cualquier aplicación que el administrador no haya autorizado.</string>
+</resources>
